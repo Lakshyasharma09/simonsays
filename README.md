@@ -6,6 +6,7 @@ A fun memory-based game built using *HTML, CSS, and JavaScript*.
 - Press any key to start the game.
 - Follow the sequence of colors shown.
 - Repeat the pattern. Each level gets harder!
+- Use console..!
 
 ## 🛠️ Tech Stack
 - HTML
