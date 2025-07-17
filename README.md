@@ -13,4 +13,4 @@ A fun memory-based game built using *HTML, CSS, and JavaScript*.
 - JavaScript
 
 - ## 📺 Live Demo
-[Click here to play the game] 
+[Click here to play the game] https://lakshyasharma09.github.io/simonsays/
