@@ -1,5 +1,6 @@
 body{
     text-align:center;
+    background-color: darkslateblue;
 }
 .btn{
     height:200px;
@@ -22,7 +23,7 @@ body{
     background-color: #819ff9;
 }
 .green{
-    background-color: #63aac0;
+    background-color: greenyellow;
 }
 .flash{
     background-color: white;
@@ -30,3 +31,4 @@ body{
 .userflash{
     background-color: green;
 }
+ 
